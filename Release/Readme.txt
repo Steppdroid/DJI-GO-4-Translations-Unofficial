@@ -1,4 +1,4 @@
-In this folder all link of release application.
+In this file all link of release application.
 
 
 !WARNING!

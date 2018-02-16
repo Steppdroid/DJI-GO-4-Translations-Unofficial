@@ -1,6 +1,6 @@
 # DJI GO 4 Translations Unofficial
 
-Traduzione in italiano per l'app djigo4,
+All translations un-official for app djigo4.
 
 
 ## Disclaimer:
@@ -14,18 +14,18 @@ Thanks to Bin4ry for deejayeye-modder.
 ## Want to contribute or learn some stuff? 
 
 
-si prega di aiutare a tradurre per bene tutte le stringhe!
+Please help to translate for good all strings!
 
 
 ## WARNING:
 
 
-Non modificare lettere,simboli o numeri preceduti dal "%" poichè rappresentano variabili.
+Do not modify letters, symbols or numbers preceded by "%" as they represent variables.
 
 
 ## Donations
 
-Due to request i add some donation methods, thank you very much for donating :)
+Due to request i add donation methods, thank you very much for donating :)
 
 PayPal: giordano.stefano1995@gmail.com
 

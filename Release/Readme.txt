@@ -1,7 +1,11 @@
 In this folder all link of release application.
 
-Changelog:
 
+!WARNING!
+I am not responsible for any damage done!
+
+
+Changelog:
 
 Mod v1.0 based on v4.1.15
 ---------------------

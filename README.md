@@ -1,6 +1,6 @@
 # DJI GO 4 Translations Unofficial
 
-All translations un-official for app djigo4.
+All translations unofficial for app djigo4.
 
 
 ## Disclaimer:
@@ -8,7 +8,7 @@ All translations un-official for app djigo4.
 
 I am not responsible for any damage done! Use your brain and all will be fine!
 
-Thanks to Bin4ry for deejayeye-modder.
+For all mods Thanks to Bin4ry for deejayeye-modder <3 .
 
 
 ## Want to contribute or learn some stuff? 

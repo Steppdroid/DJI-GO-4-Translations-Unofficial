@@ -1,5 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
     <string name="com_facebook_device_auth_instructions">Visita %@ en tu smartphone u ordenador e introduce este código:</string>
     <string name="com_facebook_image_download_unknown_error">Se produjo un error inesperado al descargar una imagen.</string>
     <string name="com_facebook_internet_permission_error_message">El inicio de sesión a la web requiere permiso de conexión a internet</string>
@@ -48,4 +46,4 @@
     <string name="common_google_play_services_updating_title">Actualización servicios Play en curso</string>
     <string name="common_open_on_phone">Abrir en teléfono</string>
     <string name="messenger_send_button_text">Enviar</string>
-</resources>
+

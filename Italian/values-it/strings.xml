@@ -3652,13 +3652,13 @@ Vola con cautela. "</string>
     <string name="setting_ui_battery_adv">Impostazioni avanzate</string>
     <string name="setting_ui_battery_charge_times">orari caricati</string>
     <string name="setting_ui_battery_charge_times_dot">orari caricati:</string>
-    <string name="setting_ui_battery_current_volume">Potere rimanente</string>
+    <string name="setting_ui_battery_current_volume">Potenza rimanente</string>
     <string name="setting_ui_battery_discharge_day">%d Days</string>
     <string name="setting_ui_battery_discharge_desc">Tempo di scarico</string>
-    <string name="setting_ui_battery_fly_time">Flight Time</string>
-    <string name="setting_ui_battery_flytime">Flight Time</string>
+    <string name="setting_ui_battery_fly_time">Tempo di volo</string>
+    <string name="setting_ui_battery_flytime">Tempo di volo</string>
     <string name="setting_ui_battery_full_volume">Capacità totale</string>
-    <string name="setting_ui_battery_history_current">Current Status</string>
+    <string name="setting_ui_battery_history_current">Stato corrente</string>
     <string name="setting_ui_battery_history_discharge">Self-Discharging Durante lo storage</string>
     <string name="setting_ui_battery_history_exception_status">Battery Connection interrotta</string>
     <string name="setting_ui_battery_history_firstlevel_current">Overcurrent During Discharge</string>
@@ -3700,7 +3700,7 @@ Vola con cautela. "</string>
     <string name="setting_ui_battery_sub_index">N. batteria</string>
     <string name="setting_ui_battery_temperature">Temperatura</string>
     <string name="setting_ui_battery_temperature_unit">%s</string>
-    <string name="setting_ui_battery_voltage_desc">Voltage</string>
+    <string name="setting_ui_battery_voltage_desc">Voltaggio</string>
     <string name="setting_ui_battery_voltage_unit">%.2f V</string>
     <string name="setting_ui_battery_volume_unit">mAh</string>
     <string name="setting_ui_code_camera_critical_error">Errore di sistema della fotocamera. Per favore riprova.</string>
@@ -4415,7 +4415,7 @@ Non regolare i valori Forza, Outfilter o Controllo predefiniti a meno che tu non
     <string name="setting_ui_wifi_apply_tip_wait">In attesa</string>
     <string name="setting_ui_wifi_auto_select_channel">Canale automatico</string>
     <string name="setting_ui_wifi_auto_select_channel_tip">Questa operazione richiede il riavvio del Wi-Fi del velivolo. Riavvia ora?</string>
-    <string name="setting_ui_wifi_channel_text">Channel</string>
+    <string name="setting_ui_wifi_channel_text">Canale</string>
     <string name="setting_ui_wifi_code_rate_text">"Qualità di trasmissione dell'immagine"</string>
     <string name="setting_ui_wifi_flying_channel_select_tip">Drone sta volando. Impossibile cambiare canale.</string>
     <string name="setting_ui_wifi_joystick_max_text">Joystick massimo</string>

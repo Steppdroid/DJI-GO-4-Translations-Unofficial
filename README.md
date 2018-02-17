@@ -8,7 +8,8 @@ All translations unofficial for app djigo4.
 
 I am not responsible for any damage done! Use your brain and all will be fine!
 
-For all mods Thanks to Bin4ry for deejayeye-modder <3 .
+For all mods Thanks to Bin4ry for deejayeye-modder <3
+https://github.com/Bin4ry/deejayeye-modder
 
 
 ## Want to contribute or learn some stuff? 
@@ -35,6 +36,6 @@ https://github.com/Steppdroid/DJI-GO-4-Translations-Unofficial/tree/master/Relea
 
 ## Donations
 
-Due to request i add donation methods, thank you very much for donating :)
+Thank you very much for donating :)
 
 PayPal: giordano.stefano1995@gmail.com

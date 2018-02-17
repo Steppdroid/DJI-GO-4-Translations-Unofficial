@@ -6458,7 +6458,7 @@ KEEP FLYING "</string>
     <string name="editor_fav_music">preferiti</string>
     <string name="editor_max_file_num">È possibile modificare contemporaneamente un massimo di 20 clip.</string>
     <string name="editor_minuteAdjust_annimation_text">%1$ds</string>
-    <string name="editor_music_fav">preferiti</string>
+    <string name="editor_music_fav">Preferiti</string>
     <string name="editor_opening_scene_title_elevate">Elevate la vostra immaginazione</string>
     <string name="editor_opening_scene_title_featurepossible">IL FUTURO DEL POSSIBILE</string>
     <string name="editor_opening_scene_title_never">Never Stop</string>
@@ -6466,7 +6466,7 @@ KEEP FLYING "</string>
     <string name="editor_opening_scene_title_rocket">ROCKET</string>
     <string name="editor_opening_scene_title_running">RUNNING</string>
     <string name="editor_opening_scene_title_time">Ora</string>
-    <string name="editor_sdcard_unmounted_dialog_content">"errore della scheda SD. Il progetto attuale è stato salvato nell'editor."</string>
+    <string name="editor_sdcard_unmounted_dialog_content">"Errore della scheda SD. Il progetto attuale è stato salvato nell'editor."</string>
     <string name="editor_sdcard_unmounted_title">SD card rimossa</string>
     <string name="editor_title_animation">Animazione</string>
     <string name="editor_title_animation_normal">Perfetto</string>
@@ -6491,7 +6491,7 @@ KEEP FLYING "</string>
     <string name="error_compass_imu_ori_not_match_desc">La direzione della bussola non è la stessa di IMU</string>
     <string name="error_compass_imu_ori_not_match_soul">Verifica che la direzione della bussola sia corretta.</string>
     <string name="error_difference_of_battery_voltage_is_too_large">Non può decollare a causa di una grande differenza di tensione tra le celle della batteria. Si prega di cambiare la batteria o contattare il supporto DJI.</string>
-    <string name="error_esc_calibrating_desc">ESC sta calibrando ...</string>
+    <string name="error_esc_calibrating_desc">ESC si sta calibrando ...</string>
     <string name="error_esc_calibrating_soul">Esci dalla modalità di calibrazione ESC</string>
     <string name="error_esc_echoing">ESC beeping. Impossibile decollare.</string>
     <string name="error_esc_version_not_match_desc">mancata corrispondenza della versione di ESC.</string>
@@ -6508,7 +6508,7 @@ KEEP FLYING "</string>
     <string name="error_motor_stuck_desc">Controlla i motori e le eliche.</string>
     <string name="error_motor_stuck_title">Motor (s) Stalled</string>
     <string name="error_motor_unbalanced_desc">Controlla i motori e le eliche.</string>
-    <string name="error_motor_unbalanced_title">Motor (s) Not Balanced</string>
+    <string name="error_motor_unbalanced_title">Motore(i) non bilanciati</string>
     <string name="error_start_fly_height_error_desc">Eccezione decollo altezza.</string>
     <string name="error_start_fly_height_error_soul">"Contatta l'assistenza DJI se il problema persiste dopo il riavvio."</string>
     <string name="error_stop_by_app_desc">"L'app ha interrotto il decollo."</string>
@@ -6700,8 +6700,8 @@ KEEP FLYING "</string>
     <string name="fpv_gensetting_video_color">"SD / Liveview
 Sembra "</string>
     <string name="fpv_gensetting_videotint_desc">Look</string>
-    <string name="fpv_gimbal_over_load_desc">Motore del giunto cardanico sovraccarico. Controllare se il morsetto cardanico è stato rimosso.</string>
-    <string name="fpv_gimbal_over_load_title">Sovraccarico motore cardanico</string>
+    <string name="fpv_gimbal_over_load_desc">Motore del Gimbal sovraccaricato. Controllare se il blocco Gimbal è stato rimosso.</string>
+    <string name="fpv_gimbal_over_load_title">Sovraccarico motore gimbal</string>
     <string name="fpv_gimbal_pitch">Regolazione del punto cardanico</string>
     <string name="fpv_gimbal_pitch_finetune">Pitch</string>
     <string name="fpv_gimbal_roll_finetune">Roll</string>
@@ -6778,7 +6778,7 @@ Assicurarsi che ci sia sufficiente luce ambientale e che la traiettoria di volo 
     <string name="fpv_request_gimbal_control_hint_desc">Dopo aver preso il controllo del giunto cardanico, gimbal risponderà solo ai comandi di questo telecomando. Fare clic su questa icona per ottenere il controllo del giunto cardanico quando si utilizza un altro telecomando.</string>
     <string name="fpv_request_gimbal_control_hint_title">Ottieni controllo Gimbal</string>
     <string name="fpv_shot_nonconnect_tip_x7">"Obiettivo disconnesso. Prova a ruotare l'obiettivo in senso antiorario per assicurarti che sia montato correttamente."</string>
-    <string name="fpv_tap_zoom_fail">Tap Zoom Failed</string>
+    <string name="fpv_tap_zoom_fail">Tap Zoom Fallito</string>
     <string name="fpv_tip_battery_broken">Batteria danneggiata</string>
     <string name="fpv_tip_gps_weak_signal_in_air">Segnale GPS debole. La precisione di posizionamento potrebbe essere compromessa. Si prega di volare con cautela.</string>
     <string name="fpv_tip_in_nfz_max_height">Limite di altitudine (GPS) - Altitudine massima del volo:%s</string>

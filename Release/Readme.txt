@@ -23,7 +23,7 @@ Mod Lite v1.0 based on v4.1.15
 ---------------------------------
 
 
-Mod Extreme v1.0 based on v4.1.15
+Mod Extreme v1.0 based on v4.1.15 (thanks to dubt)
 ---------------------------------
 -Added Italian Translation with voice.
 -Auto set brightness to 100% when app is opened

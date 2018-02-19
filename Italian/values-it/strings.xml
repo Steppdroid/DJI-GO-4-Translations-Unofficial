@@ -1126,7 +1126,7 @@
     <string name="flyc_failsafe_setting">Advanced Failsafe Settings</string>
     <string name="flyc_gain_setting">Impostazioni di guadagno</string>
     <string name="flyc_gain_title">Sensibilità</string>
-    <string name="flyc_gale_warning">Alta velocità del vento. Vola con cautela.</string>
+    <string name="flyc_gale_warning">Vento forte. Vola con cautela.</string>
     <string name="flyc_hd_signal_desc1">Mantieni entrambe le antenne di Air System e Ground System perpendicolarmente al suolo e parallele tra loro.</string>
     <string name="flyc_hd_signal_desc2">Mantieni una distanza di 2 metri.</string>
     <string name="flyc_hd_signal_desc3">RSSI (indicatore forza di ricezione ricevuta)</string>

@@ -3358,7 +3358,7 @@ Vola con cautela. "</string>
     <string name="nfz_error_abandon">aeroporto chiuso o abbandonato</string>
     <string name="nfz_error_other">Altro</string>
     <string name="nfz_error_over_coverage">Timing TFR errato</string>
-    <string name="nfz_error_submit">Submit</string>
+    <string name="nfz_error_submit">Invia</string>
     <string name="nfz_error_title">Che tipo di errore stai segnalando?</string>
     <string name="nfz_error_unlock_failed">Geozone oversize</string>
     <string name="nfz_expiration_hint_txt">Scaduto</string>
@@ -3455,7 +3455,7 @@ Vola con cautela. "</string>
     <string name="quick_fragment_four_houses">Case</string>
     <string name="quick_fragment_four_title">"IMPOSTA L'ALTITUDINE DI RITORNO A CASA"</string>
     <string name="quick_fragment_four_trees">Trees</string>
-    <string name="quick_fragment_one_altitude">Avoid Obstacles</string>
+    <string name="quick_fragment_one_altitude">Evitare ostacoli</string>
     <string name="quick_fragment_one_content">"Decollare in un'area aperta. Non volare sotto la pioggia o la neve, o vicino a montagne, edifici alti, torri di trasmissione e linee elettriche."</string>
     <string name="quick_fragment_one_place">Posizione senza ostacoli</string>
     <string name="quick_fragment_one_title">TROVA POSIZIONE SICURA DA VOLO</string>
@@ -3470,7 +3470,7 @@ Vola con cautela. "</string>
     <string name="quick_fragment_two_safe">Safe to Fly</string>
     <string name="quick_fragment_two_title">CONTROLLA CONTEGGIO SATELLITE GPS</string>
     <string name="quick_item_choosehighly">SCEGLI UN ALTITUDINE</string>
-    <string name="quick_setfail_toast">"Impossibile impostare l'altitudine Return-to-Home. Controllare la connessione tra il telecomando e l'aeromobile."</string>
+    <string name="quick_setfail_toast">"Impossibile impostare l'altitudine Ritorno-A-Casa. Controllare la connessione tra il telecomando e l'aeromobile."</string>
     <string name="quick_skip_button">Skip</string>
     <string name="quick_title">SAFETY TUTORIAL</string>
     <string name="radio_channel_custom_warning_title">Nota</string>
@@ -3478,7 +3478,7 @@ Vola con cautela. "</string>
     <string name="rc_control_set_frequency_title">Conferma le impostazioni di frequenza?</string>
     <string name="rc_main_album">ALBUM</string>
     <string name="rc_main_connect_success">Connesso</string>
-    <string name="rc_main_connect_tip">CONNECT TO</string>
+    <string name="rc_main_connect_tip">CONNETTI A</string>
     <string name="rc_main_device_enter_btn">ENTRA</string>
     <string name="rc_main_device_tip">IL TUO DISPOSITIVO</string>
     <string name="rc_main_editor">EDITOR</string>
@@ -3533,7 +3533,7 @@ Vola con cautela. "</string>
     <string name="rcsetting_slow">lento</string>
     <string name="rcsetting_start">Start</string>
     <string name="rcsetting_timeout">Timeout risposta</string>
-    <string name="rcsetting_turnleft">Rudder left</string>
+    <string name="rcsetting_turnleft">Timone a sinistra</string>
     <string name="rcsetting_turnright">Timone a destra</string>
     <string name="rcsetting_up">Throttle up</string>
     <string name="rcsetting_up_ward">Giù</string>
@@ -3751,7 +3751,7 @@ Vola con cautela. "</string>
     <string name="setting_ui_flyc_adv_setting">Impostazioni avanzate</string>
     <string name="setting_ui_flyc_adv_setting_group">Avanzate</string>
     <string name="setting_ui_flyc_advanced_go_home_switch">Passa a Advanced RTH</string>
-    <string name="setting_ui_flyc_avoid_ground">​​Landing Confirmation</string>
+    <string name="setting_ui_flyc_avoid_ground">​​Conferma atterraggio</string>
     <string name="setting_ui_flyc_avoid_ground_desc">"Quando la conferma di atterraggio è abilitata, l'aeromobile si fermerà e si librerà a un'altitudine di 0,3 m (0,98 piedi) quando si scende verso terra. Conferma o sposta nuovamente la levetta per continuare l'atterraggio."</string>
     <string name="setting_ui_flyc_base">Impostazioni di base</string>
     <string name="setting_ui_flyc_beginner">Modalità principiante</string>
@@ -3783,9 +3783,9 @@ Vola con cautela. "</string>
     <string name="setting_ui_flyc_exp_up">Throttle Up</string>
     <string name="setting_ui_flyc_exp_up_ward">Su</string>
     <string name="setting_ui_flyc_fs_action">Segnale RC perso</string>
-    <string name="setting_ui_flyc_fs_gohome">Return-to-Home</string>
+    <string name="setting_ui_flyc_fs_gohome">Ritorno-a-Casa</string>
     <string name="setting_ui_flyc_fs_hover">Hover</string>
-    <string name="setting_ui_flyc_fs_landing">Landing</string>
+    <string name="setting_ui_flyc_fs_landing">Atterraggio</string>
     <string name="setting_ui_flyc_gain_brake">Brake</string>
     <string name="setting_ui_flyc_gain_tilt">Attitude</string>
     <string name="setting_ui_flyc_gain_title">Sensibilità</string>
@@ -3804,7 +3804,7 @@ Vola con cautela. "</string>
     <string name="setting_ui_flyc_homepoint_now_desc">"Il punto di partenza verrà impostato sulla posizione corrente dell'aeromobile. Quando viene avviato Return to Home, tornerà a questo punto alla minima quota di%1$1fm (%2$1fft), in base alle tue impostazioni."</string>
     <string name="setting_ui_flyc_homepoint_other_desc">Il punto di partenza verrà impostato sulla posizione corrente. La distanza tra la tua posizione e il punto iniziale corrente è%1$1fm (%2$1fft). Sei sicuro di voler cambiare il punto di partenza?</string>
     <string name="setting_ui_flyc_homepoint_phone_invalid">Segnale GPS del dispositivo mobile debole. Impossibile acquisire informazioni sulla posizione.</string>
-    <string name="setting_ui_flyc_homepoint_rc_invalid">Debole segnale GPS del telecomando. Impossibile acquisire informazioni sulla posizione.</string>
+    <string name="setting_ui_flyc_homepoint_rc_invalid">Segnale GPS del telecomando debole. Impossibile acquisire informazioni sulla posizione.</string>
     <string name="setting_ui_flyc_ioc_reset">Reimposta IOC</string>
     <string name="setting_ui_flyc_ioc_reset_confirm">"Sei sicuro di resettare l'angolo?"</string>
     <string name="setting_ui_flyc_ioc_reset_fail">Ripristino IOC non riuscito</string>
@@ -3898,7 +3898,7 @@ A (Attitude) Mode - GPS and Vision Positioning sono disabilitati. Il passaggio d
     <string name="setting_ui_general_center">Center Board</string>
     <string name="setting_ui_general_clear_flight_logs">Azzera tutti gli avvisi</string>
     <string name="setting_ui_general_clear_flight_logs_tip">Azzera tutti gli avvisi</string>
-    <string name="setting_ui_general_clear_route">Clear Flight Route</string>
+    <string name="setting_ui_general_clear_route">Cancella rotta di volo</string>
     <string name="setting_ui_general_clear_route_tip">Sei sicuro di voler cancellare la rotta di volo?</string>
     <string name="setting_ui_general_coordinate">Calibra coordinate mappa (per la Cina continentale)</string>
     <string name="setting_ui_general_default_str">N/A</string>

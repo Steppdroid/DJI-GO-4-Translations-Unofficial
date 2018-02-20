@@ -1,4 +1,4 @@
-# DJI GO 4 Translations Unofficial
+# GO 4 Translations Unofficial
 
 All translations unofficial for app djigo4.
 

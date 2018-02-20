@@ -26,10 +26,9 @@ Do not modify letters, symbols or numbers preceded by "%" as they represent vari
 
 ## Release
 
-There are 3 version:
--one stock with only the Translations.
--one with fcc and other stuff (see changelog) and Translations.
--one full modded and Translations.(see changelog)
+There two version:
+-one based on 4.1.15.
+-one based on 4.1.22.(soon)
 
 https://github.com/Steppdroid/DJI-GO-4-Translations-Unofficial/tree/master/Release
 

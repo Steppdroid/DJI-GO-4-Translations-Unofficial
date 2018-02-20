@@ -4289,7 +4289,7 @@ A (Attitude) Mode - GPS and Vision Positioning sono disabilitati. Il passaggio d
     <string name="setting_ui_reset_wifi_confirm_txt">Reimposta Wi-Fi?</string>
     <string name="setting_ui_reset_wifi_desc">"Il Wi-Fi si riavvierà dopo il ripristino. Il canale con l'interferenza minima verrà selezionato automaticamente. Ricollega l'aeromobile dopo il riavvio."</string>
     <string name="setting_ui_reset_wifi_title">Reimposta Wi-Fi</string>
-    <string name="setting_ui_ronin_balance_test">Balance Test</string>
+    <string name="setting_ui_ronin_balance_test">Test Bilanciamento</string>
     <string name="setting_ui_ronin_balance_test_pitch">Pitch Axis</string>
     <string name="setting_ui_ronin_balance_test_res">Risultato del test:</string>
     <string name="setting_ui_ronin_balance_test_result_pitch_bad">Bilanciamento del pitch scadente. Regola la base della videocamera a sinistra o a destra.</string>
@@ -4331,7 +4331,7 @@ Non regolare i valori Forza, Outfilter o Controllo predefiniti a meno che tu non
     <string name="setting_ui_ronin_motor_settings_force">Rigidità</string>
     <string name="setting_ui_ronin_motor_settings_hard">Forza</string>
     <string name="setting_ui_ronin_motor_settings_label">Impostazioni motore</string>
-    <string name="setting_ui_ronin_motor_settings_unfold_adv">Expand</string>
+    <string name="setting_ui_ronin_motor_settings_unfold_adv">Espandi</string>
     <string name="setting_ui_ronin_pitch_down">Tilt Down</string>
     <string name="setting_ui_ronin_pitch_up">Tilt Up</string>
     <string name="setting_ui_ronin_remote_controller_setting">Impostazioni controller remoto</string>
@@ -4347,7 +4347,7 @@ Non regolare i valori Forza, Outfilter o Controllo predefiniti a meno che tu non
     <string name="setting_ui_ronin_reset_params_success_tip">Set parametri con successo</string>
     <string name="setting_ui_ronin_shutdown_motor">Spegni motori</string>
     <string name="setting_ui_ronin_system_calc_failed">Calibrazione fallita</string>
-    <string name="setting_ui_ronin_system_calc_success">Calibration Complete</string>
+    <string name="setting_ui_ronin_system_calc_success">Calibrazione Completa</string>
     <string name="setting_ui_ronin_system_calc_timeout">Calibrazione scaduta</string>
     <string name="setting_ui_ronin_system_calcing">Calibrazione del sistema ...</string>
     <string name="setting_ui_ronin_yaw_left">Pan Left</string>
@@ -4389,7 +4389,7 @@ Non regolare i valori Forza, Outfilter o Controllo predefiniti a meno che tu non
     <string name="setting_ui_vision_frontback_ass_tip_content">Drone non salirà automaticamente per evitare ostacoli quando il Forward Obstacle Sensing è disabilitato. Sei sicuro di voler disabilitare questa opzione?</string>
     <string name="setting_ui_vision_frontback_ghass">Rilevazione ostacolo RTH</string>
     <string name="setting_ui_vision_frontback_ghass_desc">"Durante il ritorno a casa, l'aereo volerà indietro e ascenderà automaticamente per evitare ostacoli quando viene rilevato."</string>
-    <string name="setting_ui_vision_frontback_ghass_tip_content">"Con RTH Obstacle Avoidance disabilitato, l'aereo non controlla gli ostacoli durante il RTH o sale per evitare ostacoli, aumentando il rischio di collisione. Sei sicuro di voler disabilitare questa opzione?"</string>
+    <string name="setting_ui_vision_frontback_ghass_tip_content">"Con RTH Obstacle Avoidance disabilitato, il drone non rileva gli ostacoli durante il RTH o sale per evitare ostacoli, aumentando il rischio di collisione. Sei sicuro di voler disabilitare questa opzione?"</string>
     <string name="setting_ui_vision_ghass">RTH Obstacle Detection</string>
     <string name="setting_ui_vision_ghass_desc">"Quando la luce ambientale è sufficiente, l'aereo salirà automaticamente per evitare ostacoli. Dopo l'abilitazione, anche se l'Evitamento Ostacoli è disabilitato, l'aeromobile controllerà automaticamente gli ostacoli durante il RTH. Sia Obstacle Avoidance che RTH Obstacle Detection saranno disabilitati durante l'atterraggio."</string>
     <string name="setting_ui_vision_ghass_tip_content">"Quando questa opzione è disabilitata, l'aeromobile non eviterà automaticamente ostacoli nella sua traiettoria di volo. Sei sicuro di voler disabilitare questa opzione?"</string>
@@ -4399,7 +4399,7 @@ Non regolare i valori Forza, Outfilter o Controllo predefiniti a meno che tu non
     <string name="setting_ui_vision_parallel">"Abilita l'Evitamento Ostacolo Orizzontale in TapFly"</string>
     <string name="setting_ui_vision_parallel_desc">"Quando attivato, l'aereo sorvolerà automaticamente gli ostacoli rilevati."</string>
     <string name="setting_ui_vision_precise_landing_tip">"Il velivolo cattura le immagini dell'area che circonda il punto di decollo e fa riferimento alle immagini durante il RTH per un atterraggio sicuro."</string>
-    <string name="setting_ui_vision_rebound">​​Obstacle Avoidance</string>
+    <string name="setting_ui_vision_rebound">​​Evitare Ostacoli</string>
     <string name="setting_ui_vision_rebound_desc">"L'aereo volerà indietro / avanti per evitare ostacoli quando vengono rilevati."</string>
     <string name="setting_ui_vision_rebound_tip">Drone volerà indietro / avanti a 2 m / s (4.4 mph) per evitare ostacoli.</string>
     <string name="setting_ui_vision_selfcal_motorup_tip">Impossibile calibrare quando i motori sono accesi.</string>
@@ -4667,7 +4667,7 @@ Non regolare i valori Forza, Outfilter o Controllo predefiniti a meno che tu non
     <string name="upload_later_continue">Continua</string>
     <string name="upload_later_title">"Condividi il tuo lavoro dopo che è stato caricato nell'host."</string>
     <string name="usercenter_album">Album</string>
-    <string name="usercenter_album_empty">Empty SD Card</string>
+    <string name="usercenter_album_empty">SD Card Vuota</string>
     <string name="usercenter_album_file_nonexist">File non trovato.</string>
     <string name="usercenter_album_load_clouds_fail">Impossibile caricare i dati della scheda SD.</string>
     <string name="usercenter_album_load_clouds_no_sdcard">Nessuna scheda SD</string>
@@ -4690,7 +4690,7 @@ Non regolare i valori Forza, Outfilter o Controllo predefiniti a meno che tu non
     <string name="usercenter_my_info_modify_name_title">Modifica nome</string>
     <string name="usercenter_my_info_modify_password_confirm">Conferma password:</string>
     <string name="usercenter_my_info_modify_password_new">Nuova password:</string>
-    <string name="usercenter_my_info_modify_password_old">Current password:</string>
+    <string name="usercenter_my_info_modify_password_old">Password corrente:</string>
     <string name="usercenter_my_info_modify_password_title">Imposta password</string>
     <string name="usercenter_my_info_select_region">Seleziona regione</string>
     <string name="usercenter_no_more_data">No More Data</string>

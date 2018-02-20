@@ -3501,9 +3501,9 @@ Vola con cautela. "</string>
     <string name="rc_setting_custom_2">Camera Forward</string>
     <string name="rc_setting_custom_4">Cambia modalità gimbal</string>
     <string name="rc_setting_custom_5">Cambia mappa / FPV</string>
-    <string name="rc_setting_custom_6">Clear Flight Route</string>
+    <string name="rc_setting_custom_6">Pulisci la rotta di volo</string>
     <string name="rc_setting_custom_9">Info batteria</string>
-    <string name="rc_slave_1">predefinito</string>
+    <string name="rc_slave_1">Predefinito</string>
     <string name="rc_slave_2">Personalizzato</string>
     <string name="rcsetting_backward">Indietro</string>
     <string name="rcsetting_backwardleft">Indietro / Sinistra</string>
@@ -3544,13 +3544,13 @@ Vola con cautela. "</string>
     <string name="rcupgrade_delpackage_tip">Pacchetto firmware cancellato.</string>
     <string name="rcupgrade_download_cancel">Annulla</string>
     <string name="rcupgrade_download_nettip">Controlla la tua connessione di rete.</string>
-    <string name="rcupgrade_download_now">Download in corso ...</string>
+    <string name="rcupgrade_download_now">Scaricamento in corso ...</string>
     <string name="rcupgrade_download_package">Scarica firmware</string>
-    <string name="rcupgrade_download_package_fail">Download fallito</string>
+    <string name="rcupgrade_download_package_fail">Scaricamento fallito</string>
     <string name="rcupgrade_download_pause">Pausa</string>
     <string name="rcupgrade_download_percent">%1$d %%scaricato</string>
     <string name="rcupgrade_download_retry">Riprova download</string>
-    <string name="rcupgrade_download_success">Download completato.</string>
+    <string name="rcupgrade_download_success">Scaricamento completato.</string>
     <string name="rcupgrade_download_version">Scarica versione:%1$s</string>
     <string name="rcupgrade_fail_check_status">Controllo dello stato del controller remoto non riuscito.</string>
     <string name="rcupgrade_fail_notdetect">Impossibile ottenere informazioni sulla versione del firmware.</string>
@@ -8396,6 +8396,3 @@ La directory è:%2$s "</string>
     <string name="v2_product_type_unknow">DJIGO4 Director</string>
     <string name="v2_product_type_wm220">Mavic Pro</string>
     <string name="v2_product_type_wm220_s">Mavic</string>
-    <string name="versionname">4.1.15</string>
-    <string name="setting_ui_general_camera_broadcast_desc_cs">Modalità di trasmissione</string>
-    <string name="foto">Foto</string>

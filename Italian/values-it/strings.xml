@@ -1,3 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>   
+    <string name="abc_action_bar_home_description">Vai alla home page</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Vai in alto</string>
+    <string name="abc_action_menu_overflow_description">Altre opzioni</string>
+    <string name="abc_action_mode_done">Fine</string>
+    <string name="abc_activity_chooser_view_see_all">Visualizza tutte</string>
+    <string name="abc_activitychooserview_choose_application">"Scegli un'applicazione"</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Cerca…</string>
+    <string name="abc_searchview_description_clear">Cancella query</string>
+    <string name="abc_searchview_description_query">Query di ricerca</string>
+    <string name="abc_searchview_description_search">Cerca</string>
+    <string name="abc_searchview_description_submit">Invia query</string>
+    <string name="abc_searchview_description_voice">Ricerca vocale</string>
+    <string name="abc_shareactionprovider_share_with">Condividi con</string>
+    <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
+    <string name="abc_toolbar_collapse_description">Comprimi</string>
     <string name="com_facebook_device_auth_instructions">Accedi a %@ nel tuo smartphone o computer e inserisci questo codice:</string>
     <string name="com_facebook_image_download_unknown_error">"Errore imprevisto durante il caricamento di un'immagine."</string>
     <string name="com_facebook_internet_permission_error_message">"L'accesso tramite Web richiede l'autorizzazione INTERNET"</string>
@@ -46,6 +67,8 @@
     <string name="common_google_play_services_updating_title">Aggiornamento di Google Play Services</string>
     <string name="common_open_on_phone">Apri sul telefono</string>
     <string name="messenger_send_button_text">Invia</string>
+    <string name="search_menu_title">Ricerca</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="finish">Fine</string>
     <string name="list_friends">Amici di%s</string>
     <string name="multi_share">Foto e Condivisione del testo</string>
@@ -8396,3 +8419,4 @@ La directory è:%2$s "</string>
     <string name="v2_product_type_unknow">DJIGO4 Director</string>
     <string name="v2_product_type_wm220">Mavic Pro</string>
     <string name="v2_product_type_wm220_s">Mavic</string>
+</resources>

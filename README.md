@@ -30,7 +30,7 @@ There two version:
 -one based on 4.1.15.
 -one based on 4.1.22.(soon)
 
-https://github.com/Steppdroid/DJI-GO-4-Translations-Unofficial/tree/master/Release
+https://github.com/Steppdroid/GO-4-Translations-Unofficial/tree/master/Release
 
 
 ## Donations

@@ -2984,7 +2984,7 @@ Fare clic su Ripristina \" per ripristinare la rotta dell'aeromobile. "</string>
     <string name="limit_tips4">"Il tuo aereo si sta avvicinando a una No-Fly Zone.
 Vola con cautela. "</string>
     <string name="limit_tips5">"Il tuo aereo in un'area riservata."</string>
-    <string name="limit_tips6">Vola lontano da No-fly Zone</string>
+    <!--string name="limit_tips6">Vola lontano da No-fly Zone</string-->
     <string name="liveshare_base_audio_enable">Abilita registrazione audio</string>
     <string name="liveshare_base_description_hint">Descrivi il tuo livestream.</string>
     <string name="liveshare_base_exit">Stop livestreaming?</string>
@@ -6014,9 +6014,9 @@ Controlla se è necessario aggiornare il firmware dell'aeromobile. Se il firmwar
     <string name="camera_mshutter_desc">Otturatore meccanico</string>
     <string name="camera_rawburst_tip">"La velocità dell'otturatore nella modalità RAW Burst non può superare 1 / 30s."</string>
     <string name="camera_ref_in2_dust_reduction_cancel">Annulla</string>
-    <string name="camera_ref_in2_dust_reduction_doing">"L'obiettivo è deducibile ..."</string>
+    <!--string name="camera_ref_in2_dust_reduction_doing">"L'obiettivo è deducibile ..."</string-->
     <string name="camera_ref_in2_dust_reduction_done">Completamento della deduzione degli obiettivi.</string>
-    <string name="camera_ref_in2_dust_reduction_start_reduction">"Obiettivo rimosso. Tocca Avvia per avviare la depolverazione dell'obiettivo."</string>
+    <!--string name="camera_ref_in2_dust_reduction_start_reduction">"Obiettivo rimosso. Tocca Avvia per avviare la depolverazione dell'obiettivo."</string-->
     <string name="camera_ref_in2_dust_reduction_start_uninstall">Avvia</string>
     <string name="camera_ref_in2_dust_reduction_title">Lens Dedusting</string>
     <string name="camera_ref_in2_dust_reduction_tutorial_1">Segui le istruzioni.</string>
@@ -6067,7 +6067,7 @@ Controlla se è necessario aggiornare il firmware dell'aeromobile. Se il firmwar
     <string name="check_device_valid_continue_title">Continua ad attivare il dispositivo DJI?</string>
     <string name="check_device_valid_exit">"Esci dall'attivazione"</string>
     <string name="check_device_valid_not_continue_content">"L'analisi ha determinato che il tuo prodotto proviene da una fonte non autorizzata. Pertanto, la garanzia del prodotto di un anno non è stata attivata. Si prega di contattare il venditore per organizzare uno scambio."</string>
-    <string name="check_gimbal_calibrate_error">Errore di inizializzazione del sensore angolo giunto cardanico.</string>
+    <!--string name="check_gimbal_calibrate_error">Errore di inizializzazione del sensore angolo giunto cardanico.</string-->
     <string name="check_gimbal_calibrate_error_solution">Riavvia il tuo aereo. Se il problema persiste, la sospensione cardanica può essere rotta. Si prega di contattare il supporto DJI.</string>
     <string name="check_gimbal_whole_calibrate_error">Errore calibrazione gimbal</string>
     <string name="check_list_gimbal_cali_error_solution">"Riavvia l'aeromobile. Contatta l'assistenza DJI se questo errore persiste dopo il riavvio."</string>

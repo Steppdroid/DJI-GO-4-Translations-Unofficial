@@ -3421,10 +3421,10 @@ Vola con cautela. "</string>
     <string name="phantom_dji_control_connect">Telecomando connesso. Si prega di collegare il velivolo.</string>
     <string name="phantom_dji_hlz_connect_device">Connetti il ​​tuo dispositivo</string>
     <string name="phantom_dji_how_to_connect">Come connettersi</string>
-    <string name="phantom_dji_learn_advice">DJI GO 4 ITA FCC</string>
+    <string name="phantom_dji_learn_advice">DJI GO 4 ITA FCC \n Vola con cautela!</string>
     <string name="phantom_dji_osmo_camera">Camera</string>
     <string name="phantom_dji_phantom">PHANTOM</string>
-    <string name="phantom_dji_plz_connect">Collega il tuo aereo</string>
+    <string name="phantom_dji_plz_connect">Collega il tuo drone</string>
     <string name="phantom_sub_mobile">Mobile &amp; nbsp;</string>
     <string name="phantom_type_inspire2"></string>
     <string name="phantom_type_m200"></string>

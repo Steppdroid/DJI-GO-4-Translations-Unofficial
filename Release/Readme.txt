@@ -38,12 +38,12 @@ Mod v1.1 based on v4.1.22
 
 Download:
 
-Mod v1.1 - v4.1.15
+Mod v1.1 - v4.1.15 base
 https://drive.google.com/file/d/1jRK4rWbBOsGSpUgOwDZTtmqIXM8OjE88/view?usp=drivesdk
 
 
-Mod Lite v1.1 - v4.1.22
-Soon
+Mod v1.1 - v4.1.22 base
+https://drive.google.com/open?id=1-PHJdNTn12UWAflpINr8OyJ3xi1bry-h
 
 
 

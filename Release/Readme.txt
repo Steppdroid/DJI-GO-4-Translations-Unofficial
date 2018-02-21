@@ -9,6 +9,7 @@ Changelog:
 
 Mod v1.1 based on v4.1.15
 ---------------------------------
+-CAN be installed next to the official DJI GO 4 from the Play Store.
 -Added Italian Translation with voice.
 -Auto set brightness to 100% when app is opened
 -Auto enable Do Not Disturb mode
@@ -22,6 +23,7 @@ Mod v1.1 based on v4.1.15
 
 Mod v1.1 based on v4.1.22
 ---------------------------------
+-CAN be installed next to the official DJI GO 4 from the Play Store.
 -Added Italian Translation with voice.
 -Auto set brightness to 100% when app is opened
 -Auto enable Do Not Disturb mode

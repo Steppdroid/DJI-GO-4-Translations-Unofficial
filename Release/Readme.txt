@@ -14,7 +14,7 @@ Mod v1.1 based on v4.1.15
 -Auto enable Do Not Disturb mode
 -Force screen on while app is open
 -FORCE FCC
--No forced updates - firmware or app<br>
+-No forced updates - firmware or app
 -Fake login - You can either login with your real account (online) or use the fake accout. To use the fake account you have to go offline (airplane mode) and put any non-numeric characters in the login box
 ---------------------------------
 
@@ -22,7 +22,13 @@ Mod v1.1 based on v4.1.15
 
 Mod v1.1 based on v4.1.22
 ---------------------------------
-
+-Added Italian Translation with voice.
+-Auto set brightness to 100% when app is opened
+-Auto enable Do Not Disturb mode
+-Force screen on while app is open
+-FORCE FCC
+-No forced updates - firmware or app
+-Fake login - You can either login with your real account (online) or use the fake accout. To use the fake account you have to go offline (airplane mode) and put any non-numeric characters in the login box
 ---------------------------------
 
 

@@ -28,7 +28,7 @@ Do not modify letters, symbols or numbers preceded by "%" as they represent vari
 
 There two version:
 -one based on 4.1.15.
--one based on 4.1.22.(soon)
+-one based on 4.1.22.
 
 https://github.com/Steppdroid/GO-4-Translations-Unofficial/tree/master/Release
 

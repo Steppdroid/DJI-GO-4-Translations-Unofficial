@@ -7279,6 +7279,7 @@ Zona rilevata: "</string>
     <string name="playback_new_burst_today">Today</string>
     <string name="playback_new_burst_yesterday">ieri</string>
     <string name="playback_video_too_short">Durata del video troppo lunga. Impossibile riprodurre.</string>
+    <string name="popup_choose_devices">Scegli il dispositivo</string>
     <string name="popup_device_chose">Scegli il dispositivo</string>
     <string name="popup_devices_title">Dispositivo</string>
     <string name="popup_more_findmydrone">Trova il tuo drone</string>

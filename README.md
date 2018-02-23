@@ -31,10 +31,3 @@ There two version:
 -one based on 4.1.22.
 
 https://github.com/Steppdroid/GO-4-Translations-Unofficial/tree/master/Release
-
-
-## Donations
-
-Thank you very much for donating :)
-
-PayPal: giordano.stefano1995@gmail.com
